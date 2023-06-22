@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.heading{
+  color:darkorange;
+  text-align: center;
+  padding-top: 50px;
+}
+
+h3{
+  color: white;
+}
+
+.calc{
+  color:green;
+  font-weight: bold;
+}
+
+.content{
+  text-align: center;
+  padding-top: 20px;;
+}
