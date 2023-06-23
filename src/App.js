@@ -44,14 +44,14 @@ function App() {
             placeholder={'Enter the first number'}
             onChange={(e) => {
               setFirstNumber(e.target.value);
-            }}
+            }} className='field'
           />{' '}
           <input
             type={'number'}
             placeholder={'Enter the Second number'}
             onChange={(e) => {
               setSecondNumber(e.target.value);
-            }}
+            }} className='field'
           />
           <br />
           <br />
