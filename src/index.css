@@ -17,12 +17,20 @@ h3{
   color: white;
 }
 
+.field{
+  font-size: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
 .calc{
   color:green;
   font-weight: bold;
+  font-size: 20px;
+  border-radius: 2px;
 }
 
 .content{
   text-align: center;
-  padding-top: 20px;;
+  padding-top: 20px;
+  font-size:30px;
 }
