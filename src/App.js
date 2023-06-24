@@ -24,6 +24,8 @@ function App() {
         break;
     }
   };
+   
+  const resultColor = result < 0 ? 'red' : result > 0 ? 'green' : '';
 
   return (
     <div>
@@ -67,7 +69,7 @@ function App() {
           <button onClick={() => docalculation('DIVIDE')} className="calc">
             Divide
           </button>{' '}
-          <h3>Result is: {result}</h3>
+          <h3 className={resultColor}>Result is: {result}</h3>
         </form>
       </div>
     </div>
