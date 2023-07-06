@@ -11,7 +11,10 @@ code {
   color:rgb(166, 255, 0);
   text-align: center;
   padding-top: 50px;
+  font-size: 80px;
+  font-weight: bold;
 }
+
 
 h3{
   color: white;
