@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: black;
+  background-color: rgb(137, 94, 54);
 }
 
 code {
@@ -8,7 +8,7 @@ code {
     monospace;
 }
 .heading{
-  color:cd sr rgb(215, 243, 10);
+  color:cd sr rgb(192, 17, 17);
   text-align: center;
   padding-top: 50px;
   font-size: 80px;
