@@ -18,6 +18,7 @@ code {
 
 h3{
   color: white;
+  font-weight: bold;
 }
 
 .field{
@@ -26,7 +27,7 @@ h3{
   text-align: center;
 }
 .calc{
-  color:green;
+  color:rgb(13, 164, 13);
   font-weight: bold;
   font-size: 20px;
   border-radius: 2px;
